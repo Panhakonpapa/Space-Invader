@@ -1,6 +1,6 @@
 # Space-Invader 👾
 ## Screenshots
-![Gameplay Screenshot](link_to_screenshot)
+![Gameplay Screenshot](lhttps://github.com/Panhakonpapa/Space-Invader/blob/main/Lib/2024-09-1814-14-06-ezgif.com-video-to-gif-converter.gif)
 
 ## Introduction ⚙️
 This is a **Space Invader** game developed in **C** using the **SDL** (Simple DirectMedia Layer) library. It's a classic arcade shooter where you control a spaceship and defend Earth from waves of alien invaders. The objective is to destroy all the invaders before they reach the bottom of the screen!
