@@ -33,8 +33,3 @@ Special thanks to the creators of SDL2 for the awesome multimedia library that m
 git clone https://github.com/your-username/space-invader-sdl.git
 cd space-invader-sdl
 ./build.sh
-### 📝 Credits
-
-Created by Panha, Visal as a high school project to explore the basics of programming and game development.
-
-Special thanks to the creators of SDL2 for the awesome multimedia library that made this project possible!
