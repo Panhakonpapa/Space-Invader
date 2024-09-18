@@ -1,6 +1,5 @@
-# Space-Invader 👾
+# SDL Space-Invader 👾
 
-## Demo
 ![Gameplay GIF](Lib/2024-09-1814-14-06-ezgif.com-video-to-gif-converter.gif)
 
 ## Introduction ⚙️
