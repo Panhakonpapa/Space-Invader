@@ -19,9 +19,14 @@ This is a **Space Invader** game developed in **C** using the **SDL** (Simple Di
 
 ## Installation ⚒️
 ### Prerequisites
-- Operating System: Windows / macOS / Linux
+- Operating System: BSD / macOS / Linux
 - SDL2 library installed. [Install SDL2](https://wiki.libsdl.org/Installation)
 - A C compiler such as `gcc` or `clang`.
+### 📝 Credits
+
+Created by Panha as a high school project to explore the basics of programming and game development.
+
+Special thanks to the creators of SDL2 for the awesome multimedia library that made this project possible!
 
 ### Clone the Repository
 ```bash
